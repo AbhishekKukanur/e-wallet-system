@@ -23,10 +23,14 @@ The following is the prototype code, which deploys a API based Wallet transactio
     ```bash
     pip install -r requirements.txt
     ```
+5. **Setup Database**
+    Setup the DB tables: users, wallet, transaction
 
-5. **Run Flask Endpoint**
+6. **Run Flask Endpoint**
     ```bash
     python3 app.py
     ```
-
-6. 
+7. **Deploy client app**
+    ```bash
+    cd ./client-app npm start
+    ```

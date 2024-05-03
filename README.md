@@ -30,6 +30,7 @@ The following is the prototype code, which deploys a API based Wallet transactio
     ```bash
     python3 app.py
     ```
+    
 7. **Deploy client app**
     ```bash
     cd ./client-app npm start

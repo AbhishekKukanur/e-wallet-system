@@ -11,8 +11,6 @@ The following is the prototype code, which deploys a API based Wallet transactio
 
 2. **Clone your forked repository**:
     Make sure to replace YOUR _GITHUB_USERNAME with your username in this command
-    ```bash git clone https://github.com/AbhishekKukanur/e-wallet-system.git
-    ```
 
 3. **Navigate to directory**
     ```bash
@@ -30,7 +28,7 @@ The following is the prototype code, which deploys a API based Wallet transactio
     ```bash
     python3 app.py
     ```
-    
+
 7. **Deploy client app**
     ```bash
     cd ./client-app npm start

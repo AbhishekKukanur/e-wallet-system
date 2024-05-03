@@ -4,6 +4,8 @@
 
 The following is the prototype code, which deploys a API based Wallet transaction system, which provides various functionalities like Create a Wallet, Create a Transaction,  Get Wallet Balance and also Get Transaction Report. Please follow the instructions given below to run the app in your local.
 
+Watch this recording to know more : https://github.com/AbhishekKukanur/e-wallet-system/blob/master/e-wallet%20recording.mp4
+
 
 ## Setup
 1. **Fork the repository**:
